@@ -1,0 +1,10 @@
+{
+  "name": "Nコレ SR-02",
+  "image": "https://uni-git-maker.github.io/MEMES_NFT_asset/images/sr-02.png",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "SR"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Nコレ ラストワン賞",
+  "image": "https://uni-git-maker.github.io/MEMES_NFT_asset/images/lastone.png",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "LAST ONE"
+    }
+  ]
+}
