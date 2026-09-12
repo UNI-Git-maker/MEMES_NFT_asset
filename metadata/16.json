@@ -1,10 +1,20 @@
 {
   "name": "Nコレ SSR-05",
+  "description": "Nコレ京都の会場で配布した「みー娘ガチャ」のNFTです。",
   "image": "https://uni-git-maker.github.io/MEMES_NFT_asset/images/ssr-05.png",
+  "external_url": "https://memes-nft-distribution.onrender.com",
   "attributes": [
     {
       "trait_type": "Rarity",
       "value": "SSR"
+    },
+    {
+      "trait_type": "Character",
+      "value": "みー娘"
+    },
+    {
+      "trait_type": "Event",
+      "value": "Nコレ京都"
     }
   ]
 }
