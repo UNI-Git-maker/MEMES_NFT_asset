@@ -8,6 +8,7 @@ NFTのメタデータと画像を **GitHub Pages** から配信するリポジ�
 
 ```
 metadata/1.json 〜 17.json   ← ウォレットが読むメタデータ。ファイル名は tokenId（10進）
+contract.json                ← コレクション情報（名前・説明・アイコン）
 images/*.png                 ← 実際の画像
 .nojekyll                    ← ファイル名が _ で始まっても配信されるようにする
 ```
