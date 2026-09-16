@@ -1,0 +1,20 @@
+{
+  "name": "1st ANNIVERSARY LIVE",
+  "description": "みー娘一周年（2026/9/22）を記念した配布NFT",
+  "image": "https://uni-git-maker.github.io/MEMES_NFT_asset/images/1st_anniversary.png",
+  "external_url": "https://memes-nft-distribution.onrender.com",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "SSR"
+    },
+    {
+      "trait_type": "Character",
+      "value": "みー娘"
+    },
+    {
+      "trait_type": "Event",
+      "value": "みー娘一周年"
+    }
+  ]
+}

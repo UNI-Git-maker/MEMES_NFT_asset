@@ -1,0 +1,20 @@
+{
+  "name": "アオハルLIVE作戦会議",
+  "description": "コメディア学園祭（2026/9/19）出演を記念した配布NFT",
+  "image": "https://uni-git-maker.github.io/MEMES_NFT_asset/images/COMEDIA_2.png",
+  "external_url": "https://memes-nft-distribution.onrender.com",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "SSR"
+    },
+    {
+      "trait_type": "Character",
+      "value": "みー娘"
+    },
+    {
+      "trait_type": "Event",
+      "value": "コメディア学園祭 2026"
+    }
+  ]
+}
