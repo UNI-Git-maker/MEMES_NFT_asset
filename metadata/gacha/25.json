@@ -1,0 +1,20 @@
+{
+  "name": "みつき",
+  "description": "みー娘との'26 ハロウィン を記念した配布NFT",
+  "image": "https://uni-git-maker.github.io/MEMES_NFT_asset/images/Halloween_3.jpg",
+  "external_url": "https://memes-nft-distribution.onrender.com",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "SSR"
+    },
+    {
+      "trait_type": "Character",
+      "value": "みつき"
+    },
+    {
+      "trait_type": "Event",
+      "value": "Halloween"
+    }
+  ]
+}

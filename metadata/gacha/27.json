@@ -1,0 +1,20 @@
+{
+  "name": "卯月",
+  "description": "みー娘との'26 ハロウィン を記念した配布NFT",
+  "image": "https://uni-git-maker.github.io/MEMES_NFT_asset/images/Halloween_5.png",
+  "external_url": "https://memes-nft-distribution.onrender.com",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "SSR"
+    },
+    {
+      "trait_type": "Character",
+      "value": "卯月"
+    },
+    {
+      "trait_type": "Event",
+      "value": "Halloween"
+    }
+  ]
+}
