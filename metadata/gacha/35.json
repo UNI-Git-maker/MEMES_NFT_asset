@@ -1,0 +1,20 @@
+{
+  "name": "星架 第2弾",
+  "description": "みー娘との'26 ハロウィン を記念した配布NFT vol.2",
+  "image": "https://uni-git-maker.github.io/MEMES_NFT_asset/images/Halloween_2_6.jpg",
+  "external_url": "https://memes-nft-distribution.onrender.com",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "SSR"
+    },
+    {
+      "trait_type": "Character",
+      "value": "星架"
+    },
+    {
+      "trait_type": "Event",
+      "value": "Halloween"
+    }
+  ]
+}
