@@ -1,0 +1,20 @@
+{
+  "name": "みー娘日常 みつき",
+  "description": "Nコレ京都'26 を記念した配布NFT",
+  "image": "https://uni-git-maker.github.io/MEMES_NFT_asset/images/Ncole_SR_3.jpg",
+  "external_url": "https://memes-nft-distribution.onrender.com",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "SR"
+    },
+    {
+      "trait_type": "Character",
+      "value": "みつき"
+    },
+    {
+      "trait_type": "Event",
+      "value": "Nコレ京都'26"
+    }
+  ]
+}
