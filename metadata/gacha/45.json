@@ -1,0 +1,20 @@
+{
+  "name": "SWAG おすわり月乃",
+  "description": "みー娘との'26 ハロウィン を記念した配布NFT vol.4",
+  "image": "https://uni-git-maker.github.io/MEMES_NFT_asset/images/Halloween_4_SR_2.jpg",
+  "external_url": "https://memes-nft-distribution.onrender.com",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "SR"
+    },
+    {
+      "trait_type": "Character",
+      "value": "月乃"
+    },
+    {
+      "trait_type": "Event",
+      "value": "Halloween"
+    }
+  ]
+}
